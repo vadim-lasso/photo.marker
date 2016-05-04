@@ -1,0 +1,32 @@
+.v-tour-box-edit {
+	height: 100% !important;
+}
+
+.v-tour-box-edit .lbl-object .box-l-o {
+	width: 265px  !important;
+	padding: 20px 18px !important;
+}
+
+.v-tour-box-edit textarea {
+	width: 100% !important;
+	height: 80px !important;
+}
+
+.v-tour-box-edit input, .v-tour-box-edit textarea {
+	width: 100% !important;
+	padding: 5px !important;
+	box-sizing: border-box !important;
+}
+
+.v-tour-box-edit .row-form2:first-child {
+	margin-top: 0px !important;
+}
+
+.v-tour-box-edit .row-form2 {
+	margin-top: 15px !important;
+}
+
+.note {
+	color: #00AA00;
+	font-size: 14px;
+}
